@@ -1,7 +1,0 @@
-{
-  "apiKey": "6f109cf9b6de4c6e8fa7e2171b4e3d51.D4XCyw-BlrG2PDxVahAnvkVU",
-  "apiUrl": "https://ollama.com/v1/chat/completions",
-  "modelName": "deepseek-v3.1:671b",
-  "temperature": 0.7,
-  "maxTokens": 500
-}
